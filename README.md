@@ -1,2 +1,3 @@
-# AnalyseI
-Studentdencursus/extra bewzijzen/opgeloste oefeningen voor Analyse I 
+# Analyse I
+
+Studentdencursus/extra bewijzen/opgeloste oefeningen voor Analyse I 
