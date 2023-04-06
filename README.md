@@ -11,4 +11,4 @@ Zoals je wilt. Post je oplossingen op de manier die je wilt in de juiste map met
  - **Hst.paginanr x.y.z oef.md**
  - **Hst.paginanr 3.3.4 Propositie.md**
 
-Je kan, als je wilt, rechtstreeks in Markdown van GitHub (met $\LaTeX$ ondersteuning werken).
+Je kan, als je wilt, rechtstreeks in Markdown van GitHub (met $\LaTeX$ ondersteuning werken). Zie daarover o.a. [deze documentatie pagina](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions)
