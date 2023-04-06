@@ -1,4 +1,4 @@
-De equivalentie van 
+# I.76 3.3.4 Propositie
 
 ## (1) => (2)
 
@@ -24,3 +24,13 @@ Voor deze kleine $0 < \delta_m < \delta_1 $.
 Deze $\delta_m$ is er nu een waardoor x geen ophopingspunt van A kan zijn want uit definitie 3.3.3 blijkt dat x enkel een ophopingspunt van A is als voor elke $\delta > 0$ geldt dat \] $x - \delta, x + \delta$ \[  $\cap ( A \ \lbrace x \rbrace ) \neq \emptyset $.
 Gezien we een concrete $\delta_m$ vonden waarvoor dit niet geldt (immers die verzameling is per constructie leeg) is x geen ophopingspunt van A.
 Dit laatste is precies wat $\neg (1)$ zegt en we dus moesten aantonen. $\square$
+
+## (2) => (1)
+
+## (1) => (3)
+
+## (3) => (1)
+
+## (2) => (3)
+
+## (3) => (2)
