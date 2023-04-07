@@ -1,7 +1,7 @@
 # Done:
 
 # §1
-
+ - I.17 1.5.5 Propositie Visualisatie en geogebra applet
  - Prop 3.3.4 (1) => (2)
  
 # §2
