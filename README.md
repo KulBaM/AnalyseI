@@ -20,6 +20,8 @@ Zoals je wilt. Post je oplossingen op de manier die je wilt in de juiste map met
  - *Hst.pagina-nr. x.y.z oef.pdf* of *Hst.pagina-nr._x.y.z_oef.pdf*
  - *Hst.pagina-nr. x.y.z oef.md* of *Hst.pagina-nr._x.y.z_oef.md*
  - *Hst.pagina-nr. x.y.z Propositie.md* of **Hst.pagina-nr._x.y.z_Propositie.md*
+ 
+Heb je een goed mnemotechnisch middeltje om een stelling/definitie te onthouden? Upload die dan zoals hierboven als een gepast bestand. Bijvoorbeeld: [deze tekeningetjes om te onthouden hoe het inwendige/sluiting zich verhoud tot A](https://github.com/KulBaM/AnalyseI/blob/main/I%20De%20re%C3%ABle%20en%20complexe%20getallen/I.72%203.2.1%20Definitie.md)
 
 ### $\LaTeX$ ondersteuning voor github flavoured markdown
 Je kan, als je wilt, rechtstreeks in Markdown van GitHub (met $\LaTeX$ ondersteuning werken (enkele dollar tekens) ). Zie daarover o.a. [deze documentatie pagina](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions)
