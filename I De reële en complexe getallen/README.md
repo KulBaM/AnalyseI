@@ -1,4 +1,4 @@
-# Done:
+# Done - I De reële en complexe getallen:
 
 ## §1 $\mathbb{R}$ als totaal geordend veld met de supremumeigenschap
  - I.17 1.5.5 Propositie Visualisatie en geogebra applet
@@ -7,7 +7,7 @@
 ## §3 Topologie in $\mathbb{R}$
 ## §4 De complexe getallen
 
-# TODO:
+# TODO - I De reële en complexe getallen::
 
 ## §1 $\mathbb{R}$ als totaal geordend veld met de supremumeigenschap
 - I.76 Prop 3.3.4 (1) <= (2)
