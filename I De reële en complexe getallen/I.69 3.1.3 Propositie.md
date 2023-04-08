@@ -1,5 +1,7 @@
 # I.69 3.1.3 Propositie.md
 
+Deze propositie is het speigel van [I.69 3.1.4 Propositie.md](I.70%203.1.4%20Propositie.md) voor gesloten verzamelingen
+
 ## a)
 
 Een unie van open verzamelingen is open.
