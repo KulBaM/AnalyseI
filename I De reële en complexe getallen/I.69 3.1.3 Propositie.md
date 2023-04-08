@@ -8,7 +8,7 @@ Een unie van open verzamelingen is open.
 
 Mnemotechnisch middel: Beeld je een (oneindige) verzameling in van open $\cup$-vormige regenemmers. Zelfs oneindig veel emmers blijven open en zullen de Belgische regen vangen.
 
-*TODO*: afbeelding hiervoor
+$\cup {\tiny \cup} \cup {\small\cup} \cup {\Huge\cup} \cup {\small\cup} \cup {\Huge\cup} \cup \large{\cup} \cup {\tiny\cup} \cup {\small\cup} \cup  {\Large\cup} \cup {\LARGE\cup} \cup \ldots$ 
 
 ## b)
 
