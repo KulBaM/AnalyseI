@@ -9,8 +9,13 @@ Een doorsnede van gesloten verzamelingen is gesloten.
 
 Mnemotechnisch middel: Beeld je een (oneindige) verzameling in van gesloten $\cap$-vormige regenemmers. Zelfs oneindig veel emmers van die emmers zullen de Belgische regen nooit vangen.
 
+🌧️🌧️🌧️🌧️🌧️🌧️🌧️🌧️🌧️🌧️🌧️🌧️🌧️🌧️🌧️🌧️🌧️🌧
+
+$\cap \tiny{\cap} \cap \small{\cap} \cap \Huge{\cap} \cap \tiny{\cap} \cap \small{\cap} \cap \Huge{\cap} \cap \tiny{\cap} \cap \small{\cap} \cap  \large{\cap} \cap \large{\cap} \cap \ldots$ 
+
 ## b)
 
 Een _eindige_ unie van gesloten verzamelingen is gesloten.
 
 Mnemotechnisch middel: met het mnemotechnisch uit a) en onthouden dat als de operatie veranderd de al dan niet (on)eindigheids voorwaarde mee veranderd.
+
