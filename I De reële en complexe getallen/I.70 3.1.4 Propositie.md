@@ -7,6 +7,10 @@ Deze propositie is het spiegelbeeld van [I.69 3.1.3 Propositie.md](I.69%203.1.3%
 
 Een doorsnede van gesloten verzamelingen is gesloten.
 
+Mnemotechnisch middel: Beeld je een (oneindige) verzameling in van gesloten $\cap$-vormige regenemmers. Zelfs oneindig veel emmers van die emmers zullen de Belgische regen nooit vangen.
+
 ## b)
 
 Een _eindige_ unie van gesloten verzamelingen is gesloten.
+
+Mnemotechnisch middel: met het mnemotechnisch uit a) en onthouden dat als de operatie veranderd de al dan niet (on)eindigheids voorwaarde mee veranderd.
