@@ -11,7 +11,7 @@ Mnemotechnisch middel: Beeld je een (oneindige) verzameling in van gesloten $\ca
 
 🌧️🌧️🌧️🌧️🌧️🌧️🌧️🌧️🌧️🌧️🌧️🌧️🌧️🌧️🌧️🌧️🌧️🌧
 
-$\cup {\tiny \cup} \cup {\small\cup} \cup {\Huge\cup} \cup {\small\cup} \cup {\Huge\cup} \cup \large{\cup} \cup {\tiny\cup} \cup {\small\cup} \cup  {\Large\cup} \cup {\LARGE\cup} \cup \ldots$ 
+$\cap {\tiny \cap} \cap {\small\cap} \cap {\Huge\cap} \cap {\small\cap} \cap {\Huge\cap} \cap \large{\cap} \cap {\tiny\cap} \cap {\small\cap} \cap  {\Large\cap} \cap {\LARGE\cap} \cap \ldots$ 
 
 ## b)
 
