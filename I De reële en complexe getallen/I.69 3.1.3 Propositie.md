@@ -10,7 +10,7 @@ Mnemotechnisch middel: Beeld je een (oneindige) verzameling in van open $\cup$-v
 
 🌧️🌧️🌧️🌧️🌧️🌧️🌧️🌧️🌧️🌧️🌧️🌧️🌧️🌧️🌧️🌧️🌧️🌧
 
-💧💧   💧 💧 💧  💧 💧    💧  💧   💧  💧 💧
+💧     💧   💧     💧    💧    💧    💧      💧    💧    💧   💧   💧     💧    💧    💧   💧   💧   💧 💧
 
 $\cup {\tiny \cup} \cup {\small\cup} \cup {\Huge\cup} \cup {\small\cup} \cup {\Huge\cup} \cup \large{\cup} \cup {\tiny\cup} \cup {\small\cup} \cup  {\Large\cup} \cup {\LARGE\cup} \cup \ldots$ 
 
