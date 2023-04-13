@@ -1,6 +1,6 @@
 Zij $A$ en $B$ twee niet-lege delen van $\mathbb{R}$. We veronderstellen dat $A$ en $B$ respectievelijk naar boven en naar onder begrensd zijn. Zijn de volgende uitspraken dan waar?
 1. $\sup(A)\geq \inf(B) \implies \exists a \in A, \exists b \in B: a \geq b$.
-2. $\sup(A)>\inf(B)\implies \exists a \in A, \exists b \in B:a>b$.
+2. $\sup(A) > \inf(B)\implies \exists a \in A, \exists b \in B:a > b$.
 
 *Bewijs:*
 We bewijzen dit met contradictie.

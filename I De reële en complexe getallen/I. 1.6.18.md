@@ -2,7 +2,7 @@ Toon aan: als $I$ een interval is in $\mathbb{R}$ dat niet naar boven en niet na
 
 *Bewijs:*
 Neem een interval $I \neq \emptyset$ en $I \subseteq \mathbb{R}$, met $I$ onbegrensd langs boven en lans onder. We nemen nu een willekeurige $x \in \mathbb{R}$. Uit het ongerijmde nu, neem dat $x \notin I$. Neem $y \in I$ (dit kan omdat $I$ niet leeg is, welke geldt omdat $I$ geen onder of bovengrens heeft), omdat $x \notin A$, zal $x \neq y$. Neem nu een willekeurige $z \in A$, als $y < x$, dan zal $z < x$ (omdat $x \notin A$, geldt dat als $x$ groter is dan 1 element van $A$, er geen ander element van $A$ kan bestaan dat groter is dan $x$ (een interval kan geen "gaten" bevatten), omdat er geen grotere elementen dan $x$ in $A$ zitten, resten er enkel nog de elementen kleiner dan $x$, deze is een strikte ongelijkheid, omdat, opnieuw, $x \notin A$ en dus $\forall a \in A: x \neq a$), dus de verzameling $A$ is naar boven begrensd. 
-Dit is een tegenspraak. Als $y>x$, dan volgt via een analogue redenering dat $z>x$, en dan zou $A$ naar onder begrensd zijn. Contradictie.
+Dit is een tegenspraak. Als $y > x$, dan volgt via een analogue redenering dat $z > x$, en dan zou $A$ naar onder begrensd zijn. Contradictie.
 Omdat onze assumptie dat $x \notin A$ fout is, en $x$ willekeurig gekozen is, is $x \in A, \forall x \in \mathbb{R}$. Dus volgt $A = \mathbb{R}$.
 $\square$
 -> Ik ben ergens van $I$ naar $A$ over gegaan, dit is gewoon uit stomheid, deze twee zijn natuurlijk dezelfde verzameling.
