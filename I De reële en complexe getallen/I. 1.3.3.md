@@ -2,7 +2,7 @@
 *Bewijs:*
 We kunnen $na > b$ herschrijven naar $n > \frac{b}{a}$. Aangezien $a \in \mathbb{R}^{+}_{0}$, blijft de strikte ongelijkheid behouden (zie eigenschappen van $\mathbb{R}$). We moeten nu aantonen dat $b/a$ een element van de reële getallen is. Dit kan bekomen worden doordat $\mathbb{R}$ gesloten is onder de vermenigvuldiging. De deling is vermenigvuldiging met het inverse element, welke $\mathbb{R}$ bezit, dus $\frac{b}{a}$ is een reëel getal. Noem $c = \frac{b}{a}$. We hebben nu [[I. 1.3.2 Lemma van Archimedes]].
 Veronderstel dat voor deze $c$ geldt dat $c \geq n, forall n \in \mathbb{N}$. Dan zou $\mathbb{N}$ naar boven begrensd zijn, en dus volgens de supremum eigenschap een supremum bezitten.
-Stel $s = \sup(\mathbb{N})$. Omdat $s$ de kleinste bovengrens is van $\mathbb{N}$, is $s-1$ geen bovengrens van $\mathbb{N}$ meer. Neem nu $k \in \mathbb{N}$, met $s-1<k$. Dan is $s < k+1$, en $(k+1) \in \mathbb{N}$, dus is $s$  <u>geen</u> bovengrens van $\mathbb{N}$, noch de kleinste bovengrens. 
+Stel $s = \sup(\mathbb{N})$. Omdat $s$ de kleinste bovengrens is van $\mathbb{N}$, is $s-1$ geen bovengrens van $\mathbb{N}$ meer. Neem nu $k \in \mathbb{N}$, met $s-1 < k$. Dan is $s < k+1$, en $(k+1) \in \mathbb{N}$, dus is $s$  <u>geen</u> bovengrens van $\mathbb{N}$, noch de kleinste bovengrens. 
 Dit is een tegenspraak.
 $\square$
 
