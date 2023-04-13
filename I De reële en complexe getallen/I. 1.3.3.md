@@ -8,7 +8,7 @@ $\square$
 
 2. Voor elke $\epsilon \in \mathbb{R}_{0}^{+}$, bestaat er een $n \in \mathbb{N}\_{0}$ zo dat $\frac{1}{n}< \epsilon$.
 *Bewijs:*
-Er is hierboven bewezen dat de natuurlijke getallen niet naar boven begrensd zijn. $\frac{1}{n}<\epsilon$ kan ter verduidelijking herschreven worden naar $1< n \cdot \epsilon$. Met $\epsilon$ willekeurig klein (of groot), kan er dus steeds een $n \in \mathbb{N}$ gekozen worden groter dan het inverse element van $\epsilon$. Dit volgt uit de onbegrensdheid van $\mathbb{N}$.
+Er is hierboven bewezen dat de natuurlijke getallen niet naar boven begrensd zijn. $\frac{1}{n} < \epsilon$ kan ter verduidelijking herschreven worden naar $1< n \cdot \epsilon$. Met $\epsilon$ willekeurig klein (of groot), kan er dus steeds een $n \in \mathbb{N}$ gekozen worden groter dan het inverse element van $\epsilon$. Dit volgt uit de onbegrensdheid van $\mathbb{N}$.
 
 3. Voor alle $x \in \mathbb{R}$ bestaat er een $m \in \mathbb{Z}$ zo dat $m-1 \leq x < m$.
 *Bewijs:*

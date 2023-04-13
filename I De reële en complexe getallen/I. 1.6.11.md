@@ -8,5 +8,5 @@ Stel dat er geen $a \in A, b \in B$, met $a < b$ zijn, er volgt dan dat $a \geq 
 $\square$
 
 *Alternatief bewijs:*
-Neem $\epsilon = \sup(A)-\inf(B)$. Per definitie van het supremum, bestaat er een $a \in [\inf(B),\inf(B)+ \frac{\epsilon}{2}[$ en bestaat er ook een $a \in ]\sup(A)- \frac{\epsilon}{2}, \sup(A)]$. Per constructie is dus $b<a$, en hiermee is de stelling bewezen.
+Neem $\epsilon = \sup(A)-\inf(B)$. Per definitie van het supremum, bestaat er een $a \in [\inf(B),\inf(B)+ \frac{\epsilon}{2}[$ en bestaat er ook een $a \in ]\sup(A)- \frac{\epsilon}{2}, \sup(A)]$. Per constructie is dus $b < a$, en hiermee is de stelling bewezen.
 $\square$

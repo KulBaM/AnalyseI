@@ -1,4 +1,4 @@
-5. $0<1$
+5. $0 < 1$
 *Bewijs:*
 Stel dat $0 \nless 1$. Omdat $0 \neq 1$, moet $1 < 0$.
 We tellen in beide leden $-1$ op, en bekomen met behulp van [[I. 1.1.4 Totaal geordend veld#^ab00ad|I. 1.1.4 a)]]:
@@ -15,4 +15,4 @@ $\square$
 *Bewijs:*
 Uit het ongerijmde.
 We veronderstellen dus dat $a > 0$, en $a^{-1}\ngtr 0$. $a^{-1}$ is niet gelijk aan nul, wegens de strikte ongelijkheid.
-$a^{-1}<0$. Wegens [[I. 1.1.4 Totaal geordend veld|I. 1.1.4 b)]], is $a^{-1}\cdot a < 0 \cdot a$. Er geldt nu: $1 < 0 \cdot a$, en wegens ons bewijs voor [[I. 1.1.5#^0dbc13|I. 1.1.5 b)]], vinden we $1 < 0$, welke, zoals in [[I. 1.1.5#^0dbc13|I. 1.1.5 b)]] aangetoond, vals is.
+$a^{-1} < 0$. Wegens [[I. 1.1.4 Totaal geordend veld|I. 1.1.4 b)]], is $a^{-1}\cdot a < 0 \cdot a$. Er geldt nu: $1 < 0 \cdot a$, en wegens ons bewijs voor [[I. 1.1.5#^0dbc13|I. 1.1.5 b)]], vinden we $1 < 0$, welke, zoals in [[I. 1.1.5#^0dbc13|I. 1.1.5 b)]] aangetoond, vals is.
