@@ -30,7 +30,9 @@ Lever je oplossingen aan op de manier die je wilt maar wel graag in de juiste ma
  
  **Opgepast: door de DIY-heid van Hoofdstuk V hanteren we daar een ietwat alternatieve structuur. Zie daarvoor [deze README](V%20Continuïteit%20voor%20functies%20van%20R^p%20naar%20R^q/README.md)**
  
-Heb je een goed **mnemotechnisch middeltje** om een stelling/definitie te onthouden? Upload die dan zoals hierboven als een gepast bestand. Bijvoorbeeld: [deze tekeningetjes om te onthouden hoe het inwendige/sluiting zich verhoud tot A](https://github.com/KulBaM/AnalyseI/blob/main/I%20De%20re%C3%ABle%20en%20complexe%20getallen/I.72%203.2.1%20Definitie.md)
+Heb je een goed **mnemotechnisch middeltje** om een stelling/definitie te onthouden? Upload die dan zoals hierboven als een gepast bestand. Bijvoorbeeld: 
+- [deze tekeningetjes om te onthouden hoe het inwendige/sluiting zich verhoud tot A](https://github.com/KulBaM/AnalyseI/blob/main/I%20De%20re%C3%ABle%20en%20complexe%20getallen/I.72%203.2.1%20Definitie.md)
+- [deze emojii-tekening om te onthouden dat een willekeurige unie van open verzamelingen open is](./I%20De%20reële%20en%20complexe%20getallen/I.69%203.1.3%20Propositie.md)
 
 
 
