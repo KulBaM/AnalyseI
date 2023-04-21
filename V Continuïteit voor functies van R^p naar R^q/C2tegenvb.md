@@ -1,4 +1,4 @@
-# C2 Tegenvoorbeeld.
+# C2 (b) => (a) Tegenvoorbeeld
 
 ```math
 f(x,y) =
