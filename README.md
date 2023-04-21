@@ -1,6 +1,9 @@
 # Analyse I
 
-Studentdencursus/extra bewijzen/opgeloste oefeningen voor Analyse I
+Studentdencursus/extra bewijzen/opgeloste oefeningen voor Analyse I.
+
+De bedoeling is niet om alle tekst en stellingen letterlijk over te nemen uit de cursus [Analyse I (G0N30B)](https://onderwijsaanbod.kuleuven.be/syllabi/n/G0N30BN.htm#activetab=doelstellingen_idp4280048) geschreven door [prof. Johan Quaegebeur](https://www.kuleuven.be/wieiswie/nl/person/00003952).
+Maar wel om aanvullend te zijn voor oefeningen/bewijzen/inzichten/mnemotechnische middelen om de leerstof beter te verwerken.
 
 Elk hoofdstuk heeft z'n eigen submap waar je met deze links recht naar toe gaat:
 
@@ -15,7 +18,8 @@ Elk hoofdstuk heeft z'n eigen submap waar je met deze links recht naar toe gaat:
 
 ## Hoe bijdragen?
 
-Zoals je wilt! Veel, weinig, een kleine verbetering, een oefeningetje hier een komma daar. Vele handen maken licht werk. :-)
+Zoals je wilt! Veel, weinig, een kleine verbetering hier, een oefeningetje daar een komma of foutje rechtzetten. Vele handen maken licht werk. :-)
+Idealieter wordt elk bewijs/oefening nog eens nagekeken door iemand anders.
 
 Lever je oplossingen aan op de manier die je wilt maar wel graag in de juiste map met de nummering zoals die i.d. cursus gebruikt wordt. Dat houd het voor iedereen overzichtelijk. Ik denk dat 1 bestand per propositie/oefening het handigste is. Werk je liefst op papier, scan dan je oplossing in en upload die met een passende naam. Werk je liefst met een ander programma dan Github Flavored Markdown? Dat kan evengoed je resultaat (als pdf bvb.)
 
