@@ -28,7 +28,11 @@ Lever je oplossingen aan op de manier die je wilt maar wel graag in de juiste ma
  - *Hst.pagina-nr. x.y.z oef.md* of *Hst.pagina-nr._x.y.z_oef.md*
  - *Hst.pagina-nr. x.y.z Propositie.md* of **Hst.pagina-nr._x.y.z_Propositie.md*
  
+ **Opgepast: door de DIY-heid van Hoofdstuk V hanteren we daar een ietwat alternatieve structuur. Zie daarvoor [deze README](V%20Continuïteit%20voor%20functies%20van%20R^p%20naar%20R^q/README.md)**
+ 
 Heb je een goed **mnemotechnisch middeltje** om een stelling/definitie te onthouden? Upload die dan zoals hierboven als een gepast bestand. Bijvoorbeeld: [deze tekeningetjes om te onthouden hoe het inwendige/sluiting zich verhoud tot A](https://github.com/KulBaM/AnalyseI/blob/main/I%20De%20re%C3%ABle%20en%20complexe%20getallen/I.72%203.2.1%20Definitie.md)
+
+
 
 ### $\LaTeX$ ondersteuning voor github flavoured markdown
 Je kan, als je wilt, rechtstreeks in Markdown van GitHub (met $\LaTeX$ ondersteuning werken (enkele dollar tekens) ). Zie daarover o.a. [deze documentatie pagina](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions)
@@ -41,6 +45,21 @@ Je kan een link maken met de volgende syntax:
 ```Markdown
 [Text van je link bvb Wina examenwiki pagina](https://jouwurlhier.eu)
 ```
+
+Als je een wilt linken naar een pagina met spaties in vervang je je spaties door ```%20```
+Dus
+
+```
+[I De reële en complexe getallen/README.md](https://github.com/KulBaM/AnalyseI/tree/main/I De reële en complexe getallen/README.md)
+```
+
+wordt:
+
+```
+[I De reële en complexe getallen/README.md](https://github.com/KulBaM/AnalyseI/tree/main/I%20De%20re%C3%ABle%20en%20complexe%20getallen/README.md)
+```
+
+Wat dan deze link: [I De reële en complexe getallen/README.md](https://github.com/KulBaM/AnalyseI/tree/main/I%20De%20re%C3%ABle%20en%20complexe%20getallen/README.md) wordt in Markdown (zonder `-s)
 
 Bvb: 
 ```Markdown
