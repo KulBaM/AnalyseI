@@ -35,8 +35,24 @@ Heb je een goed **mnemotechnisch middeltje** om een stelling/definitie te onthou
 
 
 ### $\LaTeX$ ondersteuning voor github flavoured markdown
-Je kan, als je wilt, rechtstreeks in Markdown van GitHub (met $\LaTeX$ ondersteuning werken (enkele dollar tekens) ). Zie daarover o.a. [deze documentatie pagina](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions)
+Je kan, als je wilt, rechtstreeks in Markdown van GitHub (met $\LaTeX$ ondersteuning werken (enkele dollar tekens). Zie daarover o.a. [deze documentatie pagina](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions)
 
+Als je een $\LaTeX$ environment nodig hebt (zoals een array of cases) moet je deze syntax hanteren:
+
+```Markdown
+```math #Er staan drie backticks (`) voor het woord
+\delta_{i,j} = \begin{cases} 1 & i = j \\
+0 \text{anders}
+\end{cases}```
+```
+
+Wat dan als resultaat dit geeft:
+
+```math
+\delta_{i,j} = \begin{cases} 1 & i = j \\
+0 & \text{anders}
+\end{cases}
+```
 
 ### Links
 
