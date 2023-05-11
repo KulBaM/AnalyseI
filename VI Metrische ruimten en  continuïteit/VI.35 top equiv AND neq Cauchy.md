@@ -10,11 +10,11 @@ Neem $d(x,y) = |x-y|$ als eerste metriek en $d_{atan} = |\arctan(x) - \arctan(y)
 $d$ is de standaard euclidische metriek dus daarvoor weten we al dat M1,M2,M3 geldt.
 
 ## $d_{atan}$ is een metriek in $\mathbb{R}$
-$d_{atan}$ moeten we eerst nagaan of dit inderdaad een metriek is.
+Voor $d_{atan} = |\arctan(x) - \arctan(y)|$ moeten we eerst nog nagaan of dit inderdaad een metriek is.
 
 ### M1 - zerodistant
-$$ \forall x,y \in \mathbb{R} : d_{atan}(x,y) = 0 = |\arctan(x) - \arctan(y)| \Rightarrow x = y$$
-Gezien $\arctan(x)$ continue is op heel 
+Gezien $\arctan(x)$ injectief is op heel $\mathbb{R}$ zal zeker
+$$\forall x,y \in \mathbb{R} : d_{atan}(x,y) = 0 = |\arctan(x) - \arctan(y)| \Rightarrow x = y$$
 
 ### M2 - symmetric
 
@@ -39,5 +39,16 @@ Wegens de definitie van continuiteit van $\arctan$ hierboven weten we dat specif
 Omdat we zowel $r$ als $x$ willekeurig kozen en we inderdaad een $r' = \delta$ vonden vinden we voor elke open bol $B_{atan}(x,r)$ een kleinere $B_{d}(x,\delta)$ die hier volledig in past.
 
 ### $B_{atan} \subseteq B_{d}$
+*TODO* 
 
 ## Verschilllende Cauchyrijen
+
+### De rij $(n)_n$ is gèèn Cauchyrij voor $d(x,y)$
+
+Neem een $\epsilon >0$ willekeurig.
+We kunnen nu heel eenvoudig twee elementen uit de rij nemen die verder dan $\epsilon$ van elkaar liggen.
+Bvb. $x = n$ en $\lceil x+2*\epsilon \rceil$ deze liggen volgense meteriek $d$ op een afstand van $|x - x+\lceil 2\epsilon \rceil| = 2\epsilon > \epsilon$
+
+### De rij $(n)_n$ is wèl een Cauchyrij voor $d_{atan})$
+*TODO* argument finaliseren
+Om aan te tonen dat $(n)_n$ een Cauchyrij is voor $d_{atan})$ moet er voor elke willekeurige $epsilon >0 $ een $n_0$ bestaan zo dat als $m, n > n_0$ dat $d_atan(x_n,x_m) < \epsilon$ 
