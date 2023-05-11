@@ -18,4 +18,6 @@
 
 ## §3 Continuïteit
 
+- [VI.35 top equiv AND neq Cauchy.md](./VI.35%20top%20equiv%20AND%20neq%20Cauchy.md)
+
 ## §4 Volledigheid
